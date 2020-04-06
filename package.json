@@ -28,7 +28,8 @@
     "eslint": "eslint .",
     "eslint:fix": "eslint --fix .",
     "format": "prettier --write \"**/*.+(js|jsx|json|yml|yaml|css|md|vue)\"",
-    "scsslint": "sass-lint-auto-fix"
+    "scsslint": "sass-lint-auto-fix",
+    "deploy": "firebase deploy"
   },
   "eslintConfig": {
     "extends": "react-app"

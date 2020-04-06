@@ -253,6 +253,7 @@ export default function ({states, stateDistrictWiseData, regionHighlighted}) {
         return acc;
       }, {});
     }
+    debugger;
     return [statistic, currentMapData];
   }, [currentMap, states, stateDistrictWiseData]);
 
