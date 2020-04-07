@@ -1,8 +1,7 @@
 {
-  "name": "covid19india",
-  "version": "1.0.0",
+  "name": "covid19",
+  "version": "0.0.1",
   "private": true,
-  "homepage": "http://covid19india.github.io/",
   "dependencies": {
     "axios": "^0.19.2",
     "d3": "^5.15.0",
